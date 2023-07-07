@@ -29,5 +29,9 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 1.0
+  8:
+   Uri: 'urn:FTOptix:Report'
+   Module: FTOptix.Report
+   Version: 1.2
  Nodes:
  - File: Nodes/Report_test.yaml
